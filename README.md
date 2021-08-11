@@ -1,11 +1,6 @@
-### Hi there 👋
-
-<!--
-**JoaoHenriqueAlmeida/JoaoHenriqueAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+Oi, sou Henrique Almeida, moro em Brasília e estudo desenvolvimento web na Trybe.
+<!--  REDES SOCIAIS
+- 🔭 Estudante de desenvolvimento web na Trybe;
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +8,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+LINGUAGENS E FERRAMENTAS
+ -->
+ 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoHenriqueAlmeida" width="350"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoHenriqueAlmeida&layout=compact" width="350"/>
+</div>
