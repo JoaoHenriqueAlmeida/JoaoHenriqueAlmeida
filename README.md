@@ -17,5 +17,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoHenriqueAlmeida&layout=compact&theme=tokyonight" width="350"/>
 </div>
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=JoaoHenriqueAlmeidapage.id" style="text-align: center"/>
 
