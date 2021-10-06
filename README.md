@@ -1,10 +1,10 @@
 ## Hi there! I'm João, a full stack development student at Trybe.
 
 - 🌱 I’m currently learning Front-end with ReactJs.
-- I'm interested in ...
+<!-- - I'm interested in ... -->
 - 😄 Pronouns: He/Him/His
 - 💬 Contact me at my social Media: 
-- My Technologies and Languages:
+<!-- - My Technologies and Languages: -->
 
 <!--  REDES SOCIAIS
 - 👯 I’m looking to collaborate on ...
