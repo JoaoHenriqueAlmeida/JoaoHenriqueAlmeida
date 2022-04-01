@@ -7,7 +7,7 @@
 	<h3> Hi there, I'm João Henrique</h3>
 	<h3>My Technologies and Languages:</h3>
   <div>
-    <h2>⚛️ Front-End</h2>
+    <h2>Front-End</h2>
     <img src="https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&logoColor=33afc4" />
     <img src="https://img.shields.io/badge/-css-0D1117?style=for-the-badge&logo=css3&logoColor=33afc4" />
     <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=33afc4" />
@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=33afc4" />
   </div>
   <div>
-    <h2>🌟 Back-End</h2>
+    <h2>Back-End</h2>
     <img src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=33afc4" />
     <img src="https://img.shields.io/badge/-node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=33afc4" />
     <img src="https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=33afc4" />
