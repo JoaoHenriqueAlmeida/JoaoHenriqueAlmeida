@@ -1,17 +1,6 @@
-# Hi there! I'm João, a full stack web development student at Trybe.
-### I'm a Front-end Developer, currently working on personal projects and looking for a first opportunitie in software development.
+### Hi there! I'm João, a full stack web development student at Trybe.
 
-
-
-
-### 💬 Contact me at my social Media:
-<a href="https://www.linkedin.com/in/joãohenriquealmeida/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<br></br>
-<p>Or, through my e-mail: <b>joaoh.almeidaaraujo@gmail.com </b></p>
-
-### My Technologies and Languages: 
+#### My Technologies and Languages: 
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
