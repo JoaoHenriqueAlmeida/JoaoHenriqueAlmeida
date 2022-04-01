@@ -1,4 +1,4 @@
-### Hi there! I'm João, a full stack web development student at Trybe.
+### Hi there! I'm João Henrique
 
 #### My Technologies and Languages: 
 <div>
@@ -18,12 +18,12 @@
 </div>
 
 
-### I'm currently studying:
+#### I'm currently studying:
 <div>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
-### I will study in the near future:
+#### I will study in the near future:
 
 <div>
 	<ul>
