@@ -4,7 +4,7 @@
 #### 
 
 <div align='center'>
-	<h3> Hi there, I'm João Henrique</h3>
+	<h3> Hi there, I'm João Henrique a FullStack Web Developer</h3>
 	<h3>My Technologies and Languages:</h3>
   <div>
     <h2>Front-End</h2>
