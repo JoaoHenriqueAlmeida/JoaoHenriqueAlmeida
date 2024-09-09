@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="24px" width="24px"> Hi, I'm João Henrique
 
-I'm a Full Stack Web Software Developer that enjoys self development and trying stuff out.
+I'm a FullStack Web Software Developer that loves to learn and to develop myself.
 
 ## 📫 Get in touch
 
